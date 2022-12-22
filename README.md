@@ -1,7 +1,7 @@
 # ☁️ miguel amorim ☁️
 
-<div id="header" align="leeft" width="60" height="60">
-  <img src="https://media.giphy.com/media/UDvlM48DtAoo0/giphy.gif"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/UDvlM48DtAoo0/giphy.gif" width="60"/>
 </div>
 
 ##    about
