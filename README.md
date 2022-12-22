@@ -1,11 +1,11 @@
-# MIGUEL AMORIM 😄
+# miguel amorim 😊
 
 <div id="header" align="center">
-  <img src="https://giphy.com/static/img/sdk/cat.gif"/>
+  <img src="[https://giphy.com/gifs/pizza-photoshop-sky-UDvlM48DtAoo0"/>
 </div>
 
 ### about me
-- 🌿 commuter between Barcelos and Porto (Portugal)
+- 🌿 commuter
 - 🌿 42 Porto student
 - 🌿 art enthusiast
 <!--
