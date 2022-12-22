@@ -1,13 +1,13 @@
-# ☁️ miguel amorim ☁️
+# 💿 miguel amorim 💿
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/ekBL4SQQBkwWhFIHrY/giphy.gif" width="300"/>
 </div>
 
-##    about
-- 🌿 commuter
-- 🌿 42 Porto student
-- 🌿 art enthusiast
+##   💿 about
+- 💾 commuter
+- 💾 42 Porto student
+- 💾 art enthusiast
 
 <!--
 <div id="header" align="left">
