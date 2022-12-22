@@ -1,7 +1,7 @@
 # miguel amorim 😊
 
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/pizza-photoshop-sky-UDvlM48DtAoo0"/>
+  <img src="https://media.giphy.com/media/UDvlM48DtAoo0/giphy.gif"/>
 </div>
 
 ### about me
