@@ -1,5 +1,8 @@
-### Hi there 👋
+# MIGUEL AMORIM 👋
 
+<div id="header" align="center">
+  <img src="https://giphy.com/static/img/sdk/cat.gif"/>
+</div>
 <!--
 **m1gu3l-droid/m1gu3l-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
