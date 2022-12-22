@@ -1,6 +1,6 @@
-# miguel amorim 😊
+# ☁️ miguel amorim ☁️
 
-<div id="header" align="leeft" width="100">
+<div id="header" align="leeft" width="60">
   <img src="https://media.giphy.com/media/UDvlM48DtAoo0/giphy.gif"/>
 </div>
 
