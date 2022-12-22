@@ -9,10 +9,11 @@
 - 🌿 42 Porto student
 - 🌿 art enthusiast
 
-
+<!--
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/UDvlM48DtAoo0/giphy.gif" width="300"/>
 </div>
+-->
 <!--
 **m1gu3l-droid/m1gu3l-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
