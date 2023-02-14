@@ -6,8 +6,8 @@
 
 ##   💿 about
 - 💾 commuter
+- 💾 artist
 - 💾 42 Porto student
-- 💾 art enthusiast
 
 <!--
 <div id="header" align="left">
