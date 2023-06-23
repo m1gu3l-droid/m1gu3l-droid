@@ -1,4 +1,4 @@
-# 💿 miguel amorim 💿
+# 💿 m1gu3l-droid 💿
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/ekBL4SQQBkwWhFIHrY/giphy.gif" width="300"/>
