@@ -9,6 +9,11 @@
 - 💾 artist
 - 💾 42 Porto student
 
+
+##   💿 42 projects
+- 💾 [**libft**](https://github.com/m1gu3l-droid/libft)
+- 💾 artist
+- 💾 42 Porto student
 <!--
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/UDvlM48DtAoo0/giphy.gif" width="300"/>
