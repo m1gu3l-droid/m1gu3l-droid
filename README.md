@@ -5,13 +5,13 @@
 </div>
 
 ##   💿 about
-- 💾 commuter
-- 💾 artist
-- 💾 42 Porto student
+- 💾 commuter between barcelos and porto
+- 💾 performance artist 
+- 💾 common core student at 42 porto
 
 
-##   💿 42 projects
-- 💾 [**libft**](https://github.com/m1gu3l-droid/libft)
+##   💿 projects
+- 💾 [*libft*](https://github.com/m1gu3l-droid/libft)
 - 💾 [**ft_printf**](https://github.com/m1gu3l-droid/ft_printf)
 - 💾 [**get_next_line**](https://github.com/m1gu3l-droid/get_next_line)
 - 💾 [**minitalk**](https://github.com/m1gu3l-droid/minitalk)
