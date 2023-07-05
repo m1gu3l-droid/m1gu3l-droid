@@ -12,10 +12,10 @@
 
 ##   💿 projects
 - 💾 [libft](https://github.com/m1gu3l-droid/libft)
-- 💾 [**ft_printf**](https://github.com/m1gu3l-droid/ft_printf)
-- 💾 [**get_next_line**](https://github.com/m1gu3l-droid/get_next_line)
-- 💾 [**minitalk**](https://github.com/m1gu3l-droid/minitalk)
-- 💾 [**so_long**](https://github.com/m1gu3l-droid/so_long)
+- 💾 [ft_printf](https://github.com/m1gu3l-droid/ft_printf)
+- 💾 [get_next_line](https://github.com/m1gu3l-droid/get_next_line)
+- 💾 [minitalk](https://github.com/m1gu3l-droid/minitalk)
+- 💾 [so_long](https://github.com/m1gu3l-droid/so_long)
 
 
 <!--
