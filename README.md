@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/ekBL4SQQBkwWhFIHrY/giphy.gif" width="300"/>
 </div>
 
-##   💿 about
+# 💿 about
 - 💾 performance artist 
 - 💾 common core student at 42 porto
 - 💾 commuter between barcelos and porto
 
 
-##   💿 projects
+# 💿 projects
 - 💾 [libft](https://github.com/m1gu3l-droid/libft)
 - 💾 [ft_printf](https://github.com/m1gu3l-droid/ft_printf)
 - 💾 [get_next_line](https://github.com/m1gu3l-droid/get_next_line)
