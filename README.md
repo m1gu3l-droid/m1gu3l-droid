@@ -13,6 +13,7 @@
 ## 💿 projects
 - 💾 [libft](https://github.com/m1gu3l-droid/libft)[style=color: red;]
 - 💾 <a href="https://github.com/m1gu3l-droid/libft" style="color: red;">libft</a>
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 - 💾 [ft_printf](https://github.com/m1gu3l-droid/ft_printf)
 - 💾 [get_next_line](https://github.com/m1gu3l-droid/get_next_line)
 - 💾 [minitalk](https://github.com/m1gu3l-droid/minitalk)
