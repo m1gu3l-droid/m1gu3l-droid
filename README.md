@@ -2,7 +2,6 @@
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/ekBL4SQQBkwWhFIHrY/giphy.gif" width="300"/>
-</div>
 <div align="right">
   <a href="https://github.com/m1gu3l-droid"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m1gu3l-droid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
