@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/ekBL4SQQBkwWhFIHrY/giphy.gif" width="300"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="m1gu3l-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<div align="right" style="display: inline_block"><br>
+  <img alt="m1gu3l-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 ## 💿 about
