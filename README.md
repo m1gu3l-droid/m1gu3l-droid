@@ -11,7 +11,7 @@
 
 
 ## 💿 projects
-- 💾 [libft](https://github.com/m1gu3l-droid/libft){style=color: red;}
+- 💾 [libft](https://github.com/m1gu3l-droid/libft)[style=color: red;]
 - 💾 <a href="https://github.com/m1gu3l-droid/libft" style="color: red;">libft</a>
 - 💾 [ft_printf](https://github.com/m1gu3l-droid/ft_printf)
 - 💾 [get_next_line](https://github.com/m1gu3l-droid/get_next_line)
