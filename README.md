@@ -6,9 +6,6 @@
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m1gu3l-droid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1gu3l-droid&layout=compact&langs_count=7&theme=dark"/>
 </div> 
-<div style="display: inline_block"><br>  
-  <img align="right" alt="m1gu3l-droid-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-</div>
 
 ## 💿 about
 - 💾 performance artist 
