@@ -5,9 +5,9 @@
 </div>
 
 ##   💿 about
-- 💾 commuter between barcelos and porto
 - 💾 performance artist 
 - 💾 common core student at 42 porto
+- 💾 commuter between barcelos and porto
 
 
 ##   💿 projects
