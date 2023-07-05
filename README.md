@@ -1,7 +1,7 @@
 # 💿 m1gu3l-droid 💿
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/ekBL4SQQBkwWhFIHrY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ekBL4SQQBkwWhFIHrY/giphy.gif" width="110"/>
   <a href="https://github.com/m1gu3l-droid"></a>
   <img height="110" src="https://github-readme-stats.vercel.app/api?username=m1gu3l-droid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1gu3l-droid&layout=compact&langs_count=7&theme=dark"/>
